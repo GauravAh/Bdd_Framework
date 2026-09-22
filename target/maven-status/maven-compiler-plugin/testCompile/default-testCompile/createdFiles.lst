@@ -1,0 +1,6 @@
+hooks\HookClass.class
+reporting\CustomRep.class
+stepdefinitions\WebTablePractice.class
+stepdefinitions\AmazonClass.class
+stepdefinitions\AmazonsignIn.class
+runner\TestRunner.class
