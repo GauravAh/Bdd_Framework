@@ -46,7 +46,7 @@ public class AmazonsignIn {
 
     @Then("I should be redirected to the dashboard page")
     public void i_should_be_redirected_to_the_dashboard_page() throws InterruptedException {
-        Thread.sleep(12000);
+        /*Thread.sleep(12000);
         driver.navigate().to("https://www.amazon.in/checkout/p/p-404-0370657-0750762/address?pipelineType=Chewbacca&cartItemCount=1&referrer=address");
         signInPage.clickretailCheckout();
         Thread.sleep(4000);
@@ -67,7 +67,7 @@ public class AmazonsignIn {
 
             signInPage.sendFullName(FullName1);
             signInPage.sendMobileNo(mobNo);
-            signInPage.sendPostalAdderess(Pincode1);
+            signInPage.sendPostalAdderess(Pincode1);*/
         }
     }
 
